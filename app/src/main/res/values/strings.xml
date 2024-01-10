@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dz_3_month_1_dz</string>
+    <string name="intent">Intent</string>
+    <string name="emil">Введите  почту</string>
+    <string name="emil2">Тема</string>
+    <string name="emil3">Текст сообщения</string>
+<string name="open">Открыт</string>
+</resources>
